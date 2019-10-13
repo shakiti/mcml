@@ -1,0 +1,30 @@
+.logo img{
+	width:100.181px;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom:30px;
+	font-size:22px;
+	color:blue;
+}
+.mtavari{
+	color:red;
+}
+.navigation-li{
+	display: inline-block;
+	margin-right:30px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left:48.247px;
+}
+.computer{
+	width:1170px;
+	margin-bottom:40px;
+}
